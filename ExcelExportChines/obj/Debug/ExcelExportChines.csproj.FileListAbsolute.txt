@@ -1,0 +1,14 @@
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\bin\Debug\ExcelExportChines.exe.config
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\bin\Debug\ExcelExportChines.exe
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\bin\Debug\ExcelExportChines.pdb
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\bin\Debug\Excel.4.5.dll
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\bin\Debug\ICSharpCode.SharpZipLib.dll
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\bin\Debug\Excel.4.5.pdb
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\obj\Debug\ExcelExportChines.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\obj\Debug\ExcelExportChines.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\obj\Debug\ExcelExportChines.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\obj\Debug\ExcelExportChines.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\obj\Debug\ExcelExportChines.exe
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\obj\Debug\ExcelExportChines.pdb
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\bin\Debug\Newtonsoft.Json.dll
+\\mac\home\documents\visual studio 2015\Projects\ExcelExportChines\ExcelExportChines\bin\Debug\Newtonsoft.Json.xml
