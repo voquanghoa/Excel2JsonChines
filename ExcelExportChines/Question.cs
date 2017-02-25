@@ -7,15 +7,16 @@ using System.Threading.Tasks;
 
 namespace ExcelExportChines
 {
+    [DataContract]
     public class Question
     {
-        [DataMember(Name = "question")]
+        [DataMember(Name = "questionTitle")]
         public string Title { get; set; }
 
-        [DataMember(Name = "answers")]
+        [DataMember(Name = "anwers")]
         public List<string> Answers { get; set; }
 
-        [DataMember(Name = "correct")]
+        [DataMember(Name = "correctAnswer")]
         public int Correct { get; set; }
     }
 }

@@ -8,12 +8,7 @@ using System.Threading.Tasks;
 namespace ExcelExportChines
 {
     [DataContract]
-    public class TestContent
+    public class TestContent : List<Question>
     {
-        [DataMember(Name = "title")]
-        public string Title { get; set; }
-
-        [DataMember(Name = "questions")]
-        public List<Question> Questions { get; set; }
     }
 }

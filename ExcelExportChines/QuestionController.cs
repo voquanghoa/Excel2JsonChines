@@ -16,7 +16,7 @@ namespace ExcelExportChines
         {
             try
             {
-                var testContent = TestContentReader.ReadTestContent(fileName);
+                var testContent = English4AllReader.ReadTestContent(fileName);
                 var jsonFile = Path.GetFileNameWithoutExtension(fileName) + ".json";
                 var jsonPath = Path.Combine(Path.GetDirectoryName(fileName), jsonFile);
                 File.Delete(jsonPath);
@@ -27,7 +27,6 @@ namespace ExcelExportChines
             {
                 return ex.Message + "\n\r";
             }
-            
         }
 
         public static string Process(string fileName)
@@ -35,7 +34,7 @@ namespace ExcelExportChines
             StringBuilder sb = new StringBuilder();
 
             var directories = Directory.EnumerateDirectories(fileName).ToList();
-            var files = Directory.EnumerateFiles(fileName, "*.xlsx").ToList();
+            var files = Directory.EnumerateFiles(fileName, "*.txt").ToList();
 
             foreach (var directory in directories)
             {

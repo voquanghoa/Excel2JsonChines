@@ -21,9 +21,10 @@ namespace ExcelExportChines
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var fileName = @"C:\TiengTrung";
+            var fileName = @"\\Mac\Home\Downloads\Update_grammar (1)";
             var log = QuestionController.Process(fileName);
             textBox1.Text = log;
+            MessageBox.Show("Done");
         }
     }
 }
